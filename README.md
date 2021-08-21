@@ -14,7 +14,7 @@ Olá, sim! meu apelido é Pokebola mas pode me chamar de Poke 🤙🏼
   <a href="https://github.com/Pokebola"> 
   <img height="150"  
        src="https://github-readme-stats.vercel.app/api?username=Pokebola&show_icons=falsee&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160"   width="500"
+  <img height="160"   
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pokebola&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </div>
   
